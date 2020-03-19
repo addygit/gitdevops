@@ -7,3 +7,5 @@ why we are using single hash?
 why we are using dobule hash?
 
 #third line of example file.
+
+what if we will use 3 hash with every line?
