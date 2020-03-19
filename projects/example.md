@@ -4,5 +4,6 @@ why we are using single hash?
 
 ##second line of exmaple file.
 
+why we are using dobule hash?
 
-##third line of example file.
+#third line of example file.
